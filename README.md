@@ -1,4 +1,4 @@
-# Number-Game
+# Matrix Game
 
 How to play :
 1. There is a 4*4 grid which can be filled with any number. Initially two random cells are filled with 2 in it. Rest cells are empty.
